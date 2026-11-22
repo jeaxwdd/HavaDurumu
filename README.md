@@ -20,4 +20,3 @@ Dünya genelindeki şehirler için anlık meteorolojik veriler ve çok günlük 
 * **📱 Duyarlı (Responsive) Tasarım:** Hem masaüstü hem de mobil tarayıcılarla tam uyumlu görünüm.
 
 
-   git clone [https://github.com/jeaxwdd/PROJE-ADIN.git](https://github.com/jeaxwdd/PROJE-ADIN.git)
